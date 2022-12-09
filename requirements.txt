@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+dependency-injector
+aiohttp
+pytest
+httpx
+PyYAML
+sqlalchemy
+pytest-cov

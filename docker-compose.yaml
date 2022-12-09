@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+
+  webapp:
+    build: ./
+    image: hexagonal_architecture
+    ports:
+      - "8000:8000"
+    volumes:
+      - "./:/code"
