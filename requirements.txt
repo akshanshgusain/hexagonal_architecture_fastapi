@@ -7,3 +7,4 @@ httpx
 PyYAML
 sqlalchemy
 pytest-cov
+psycopg2-binary
